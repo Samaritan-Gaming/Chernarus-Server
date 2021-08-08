@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": "7",
+    "ZoneCheckTimer": 3,
+    "AggressionReductionTickRate": 60,
+    "WarningMessageColor": [
+        200,
+        255,
+        0,
+        0
+    ],
+    "NotificationMessageTime": 15,
+    "WarningMessageImagePath": "HeroesAndBandits/gui/images/DeathWarning.paa",
+    "Zones": [
+  
+    ]
+}

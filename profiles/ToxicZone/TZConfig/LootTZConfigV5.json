@@ -1,0 +1,28 @@
+{
+    "TimerLoot": 2700000,
+    "IsActive": 1,
+    "ListLoots": [
+        {
+            "Name": "Army1",
+            "Loots": [
+                {
+                    "LootName": "Chernarus_Ticket",
+                    "ProbToSpawn": 0.2,
+                    "AttachmentsToLoot": [
+                    ]
+                },
+                {
+                    "LootName": "SwansIsland_Ticket",
+                    "ProbToSpawn": 0.2,
+                    "AttachmentsToLoot": [
+                    ]
+                },
+                {
+                    "LootName": "ToxicCure",
+                    "ProbToSpawn": 0.6,
+                    "AttachmentsToLoot": []
+                }
+            ]
+        }
+	]
+}

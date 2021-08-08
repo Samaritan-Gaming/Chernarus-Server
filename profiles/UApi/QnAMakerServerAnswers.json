@@ -1,0 +1,10 @@
+{
+    "UseNotifcationsMod": 0,
+    "BotName": "Bot",
+    "ServerSpecificAnswers": [
+        {
+            "ResponseCode": "#SERVERNAME#",
+            "Response": "US1"
+        }
+    ]
+}

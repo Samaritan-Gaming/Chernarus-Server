@@ -1,0 +1,9 @@
+{
+    "ConfigVersion": "1",
+    "ServerURL": "https://144.76.106.243:444/",
+    "ServerID": "Chernarus",
+    "ServerAuth": "zmzsDXFPLwEu8pn57BB8d0plvAZokd1SCKvK1hf3JA1waiIB",
+    "QnAEnabled": 1,
+    "EnableBuiltinLogging": 1,
+    "PromptDiscordOnConnect": 0
+}
